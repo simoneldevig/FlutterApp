@@ -1,0 +1,4 @@
+#Sun May 20 01:00:21 CEST 2018
+base.0=/Users/simoneldevig/Sites/FlutterApp/quiz/build/app/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,6 +1,6 @@
 # Quiz App
 
-A new Flutter project.
+A simple app for both Android and iOS mainly created for testing the Flutter Framework.
 
 ## Getting Started
 
